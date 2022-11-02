@@ -1,0 +1,15 @@
+namespace: community
+name: compliance_as_code
+version: 1.0.0
+readme: README.md
+authors:
+  - Dan Clark (danclark@redhat.com)
+description: collection of the compliance as code roles for RHEL
+license_file: COPYING
+tags: [community]
+dependencies:
+repository: https://github.com/dmc5179/community.compliance_as_code
+documentation: https://docs.ansible.com/ansible/latest/collections/community/general/
+homepage: https://github.com/dmc5179/community.compliance_as_code
+issues: https://github.com/dmc5179/community.compliance_as_code/issues
+#type: flatmap

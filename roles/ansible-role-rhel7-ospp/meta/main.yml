@@ -1,0 +1,21 @@
+galaxy_info:
+  role_name: rhel7_ospp
+  author: ComplianceAsCode development team
+  description: OSPP - Protection Profile for General Purpose Operating Systems v4.2.1
+
+  issue_tracker_url: https://github.com/ComplianceAsCode/content/issues
+
+  license: BSD-3-Clause
+
+  min_ansible_version: 2.9
+
+  platforms:
+  - name: EL
+    versions:
+    - 7
+
+  galaxy_tags: [system, hardening, openscap, ssg, scap, security, compliance, complianceascode,
+  redhatofficial, redhat, rhel7, ospp]
+
+
+dependencies: []

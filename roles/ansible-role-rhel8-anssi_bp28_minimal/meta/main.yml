@@ -1,0 +1,21 @@
+galaxy_info:
+  role_name: rhel8_anssi_bp28_minimal
+  author: ComplianceAsCode development team
+  description: ANSSI-BP-028 (minimal)
+
+  issue_tracker_url: https://github.com/ComplianceAsCode/content/issues
+
+  license: BSD-3-Clause
+
+  min_ansible_version: 2.9
+
+  platforms:
+  - name: EL
+    versions:
+    - 8
+
+  galaxy_tags: [system, hardening, openscap, ssg, scap, security, compliance, complianceascode,
+  redhatofficial, redhat, rhel8, anssibp28minimal, anssi]
+
+
+dependencies: []
